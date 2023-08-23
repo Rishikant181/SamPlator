@@ -1,0 +1,66 @@
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\bin\Debug\SamPlator.exe.config
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\bin\Debug\SamPlator.exe
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\bin\Debug\SamPlator.pdb
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.csprojResolveAssemblyReference.cache
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\MainWindow.baml
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\MainWindow.g.cs
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\App.g.cs
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator_MarkupCompile.cache
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.g.resources
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.Properties.Resources.resources
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.csproj.GenerateResource.Cache
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.exe
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.pdb
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\App.baml
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\volumeControl.baml
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\volumeControl.g.cs
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\aboutWindow.baml
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\aboutWindow.g.cs
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\balanceControl.baml
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\balanceControl.g.cs
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\optionsWindow.baml
+D:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\optionsWindow.g.cs
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\bin\Debug\SamPlator.exe.config
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\SamPlator.exe
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\SamPlator.pdb
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\bin\Debug\SamPlator.exe
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\bin\Debug\SamPlator.pdb
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\SamPlator.csprojResolveAssemblyReference.cache
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\aboutWindow.baml
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\balanceControl.baml
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\MainWindow.baml
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\optionsWindow.baml
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\volumeControl.baml
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\App.baml
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\aboutWindow.g.cs
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\balanceControl.g.cs
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\MainWindow.g.cs
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\optionsWindow.g.cs
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\volumeControl.g.cs
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\App.g.cs
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\SamPlator_MarkupCompile.cache
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\SamPlator.g.resources
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\SamPlator.Properties.Resources.resources
+D:\Entertainment\Games\Misc\Visual Studio_Programs Backup\SamPlator\SamPlator\obj\Debug\SamPlator.csproj.GenerateResource.Cache
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\bin\Debug\SamPlator.exe.config
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.exe
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.pdb
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\bin\Debug\SamPlator.exe
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\bin\Debug\SamPlator.pdb
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.csprojResolveAssemblyReference.cache
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\aboutWindow.baml
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\balanceControl.baml
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\MainWindow.baml
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\optionsWindow.baml
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\volumeControl.baml
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\App.baml
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\aboutWindow.g.cs
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\balanceControl.g.cs
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\MainWindow.g.cs
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\optionsWindow.g.cs
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\volumeControl.g.cs
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\App.g.cs
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator_MarkupCompile.cache
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.g.resources
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.Properties.Resources.resources
+F:\Developement\Projects\Programming\Visual Studio\SamPlator\SamPlator\obj\Debug\SamPlator.csproj.GenerateResource.Cache

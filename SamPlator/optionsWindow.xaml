@@ -1,0 +1,18 @@
+﻿<Window x:Name="optionsWindow1" x:Class="SamPlator.optionsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Options" Height="450" Width="350" Background="#FF0F0F0F" WindowStyle="None" WindowStartupLocation="CenterScreen" Closing="optionsWindow1_Closing" AllowsTransparency="True" Loaded="optionsWindow1_Loaded">
+    <Grid>
+        <Label x:Name="backgroundLabel1" Content="Background Color :" HorizontalAlignment="Left" Margin="20,39,0,0" VerticalAlignment="Top" Width="298" FontFamily="Magneto" FontSize="20" Foreground="#FF0096FF"/>
+        <Button x:Name="showColor" Content="Show Color Selection Dialog" HorizontalAlignment="Left" Margin="47,98,0,0" VerticalAlignment="Top" Width="243" Height="46" Background="#FF323232" BorderThickness="0" FontFamily="Segoe UI Semibold" FontSize="14" Foreground="#FF787878" Click="showColor_Click"/>
+        <Button x:Name="defaultColor" Content="Default Color" HorizontalAlignment="Left" Margin="47,149,0,0" VerticalAlignment="Top" Width="243" Height="46" Background="#FF323232" BorderThickness="0" FontFamily="Segoe UI Semibold" FontSize="14" Foreground="#FF787878" Click="defaultColor_Click"/>
+        <Button x:Name="saveColor" Content="Save" HorizontalAlignment="Left" Margin="47,380,0,0" VerticalAlignment="Top" Width="112" Height="46" Background="#FF323232" BorderThickness="0" FontFamily="Segoe UI Semibold" FontSize="14" Foreground="#FF787878" Click="saveColor_Click"/>
+        <Button x:Name="cancel" Content="Cancel" HorizontalAlignment="Left" Margin="173,380,0,0" VerticalAlignment="Top" Width="117" Height="46" Background="#FF323232" BorderThickness="0" FontFamily="Segoe UI Semibold" FontSize="14" Foreground="#FF787878" Click="cancelColor_Click"/>
+        <Button Content="X" HorizontalAlignment="Left" Margin="295,6,0,0" VerticalAlignment="Top" Width="50" Height="30" Background="Red" BorderThickness="0" FontFamily="Segoe UI Semibold" FontSize="16" Click="Button_Click"/>
+        <Slider x:Name="trpSlider" HorizontalAlignment="Left" Margin="47,312,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.583,0.333" Width="247" Maximum="100" SmallChange="1" ValueChanged="trpSlider_ValueChanged" MouseWheel="trpSlider_MouseWheel"/>
+        <Label x:Name="transparencyLabel1" Content="Opacity Level :         " HorizontalAlignment="Left" Margin="19,263,0,0" VerticalAlignment="Top" Width="191" FontFamily="Magneto" FontSize="20" Foreground="#FF0096FF"/>
+        <Label x:Name="opacityLevelLabel" Content="&#xD;&#xA;" HorizontalAlignment="Left" Margin="214,265,0,0" VerticalAlignment="Top" FontFamily="Lucida Sans" FontSize="16" Foreground="#FF0096FF" FontWeight="Bold"/>
+        <CheckBox x:Name="altPage" Content="Use Alternative page keys" HorizontalAlignment="Left" Margin="47,222,0,0" VerticalAlignment="Top" Width="241" Height="19" Foreground="#FF04A4FF" FontSize="14" Checked="altPage_Checked" Unchecked="altPage_Unchecked"/>
+
+    </Grid>
+</Window>

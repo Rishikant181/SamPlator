@@ -1,0 +1,19 @@
+﻿<Window x:Name="aboutWindow1" x:Class="SamPlator.aboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="640" Width="500" Background="#FF0F0F0F" WindowStyle="None" WindowStartupLocation="CenterScreen" Closing="aboutWindow1_Closing" AllowsTransparency="True" Loaded="aboutWindow1_Loaded">
+    <Grid>
+        <Label Content="About SamPlator : " HorizontalAlignment="Left" Margin="55,78,0,0" VerticalAlignment="Top" Height="41" Width="388" FontFamily="Magneto" FontSize="24" Foreground="#FF0080FF"/>
+        <Label Content="&#x9;A light-weight yet powerful virtual Sampler,&#xD;&#xA;   based on Novation-Lauchpad, and first of it's kind.&#xA;   Probably the best !&#xA;&#xA;          It's &quot;Music At your fingertips................&quot;" Margin="52,128,57,0" VerticalAlignment="Top" Height="183" Foreground="#FF8C8C8C" FontFamily="Segoe UI Semibold" FontSize="16"/>
+        <Label Content="The Dev Team :" HorizontalAlignment="Left" Margin="55,259,0,0" VerticalAlignment="Top" Height="41" Width="388" FontFamily="Magneto" FontSize="24" Foreground="#FF0080FF"/>
+        <Label Content="         1.  Rishkant Sahu (Lead Programmer)&#xA;         2.  Asutosh Rath (Concept)" HorizontalAlignment="Left" Margin="76,303,0,0" VerticalAlignment="Top" Height="62" Width="326" Foreground="#FF8C8C8C" FontFamily="Segoe UI Semibold" FontSize="16"/>
+        <Label Content="Special Credits :" HorizontalAlignment="Left" Margin="55,367,0,0" VerticalAlignment="Top" Height="41" Width="388" FontFamily="Magneto" FontSize="24" Foreground="#FF0080FF"/>
+        <Label Content="         1. Mr.  B.N Sahoo&#xA;         2. Mr. A.K. Samantray" HorizontalAlignment="Left" Margin="73,414,0,0" VerticalAlignment="Top" Height="62" Width="368" Foreground="#FF8C8C8C" FontFamily="Segoe UI Semibold" FontSize="16"/>
+        <Label Content="Mail us at ..........." HorizontalAlignment="Left" Margin="55,475,0,0" VerticalAlignment="Top" Height="41" Width="388" FontFamily="Magneto" FontSize="24" Foreground="#FF0080FF"/>
+        <Label Content="                    rishikantsahu181@gmail.com&#xA;                ultimateashutosh1000@gmail.com" HorizontalAlignment="Left" Margin="56,527,0,0" VerticalAlignment="Top" Height="62" Width="383" Foreground="#FF8C8C8C" FontFamily="Segoe UI Semibold" FontSize="16"/>
+        <Button x:Name="aboutClose" Content="X" HorizontalAlignment="Left" Margin="443,7,0,0" VerticalAlignment="Top" Width="50" Height="30" Background="Red" FontFamily="Segoe UI Semibold" FontSize="18" BorderThickness="0" Click="aboutClose_Click"/>
+        <Label Content="Version Info : 2018.1.3.5 (v 3.5)" HorizontalAlignment="Left" Margin="133,589,0,0" VerticalAlignment="Top" Height="31" Width="232" Foreground="#FF8C8C8C" FontFamily="Segoe UI Semibold" FontSize="16"/>
+        <Label Content="SamPlator" HorizontalAlignment="Left" Margin="131,16,0,0" VerticalAlignment="Top" Height="54" Width="229" FontFamily="Magneto" FontSize="36" Foreground="#FF0080FF"/>
+
+    </Grid>
+</Window>
